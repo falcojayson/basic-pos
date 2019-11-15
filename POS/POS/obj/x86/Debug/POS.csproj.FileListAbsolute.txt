@@ -1,0 +1,7 @@
+d:\Users\client\Desktop\POS\POS\bin\Debug\POS.exe
+d:\Users\client\Desktop\POS\POS\bin\Debug\POS.pdb
+d:\Users\client\Desktop\POS\POS\obj\x86\Debug\POS.Form1.resources
+d:\Users\client\Desktop\POS\POS\obj\x86\Debug\POS.Properties.Resources.resources
+d:\Users\client\Desktop\POS\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+d:\Users\client\Desktop\POS\POS\obj\x86\Debug\POS.exe
+d:\Users\client\Desktop\POS\POS\obj\x86\Debug\POS.pdb
